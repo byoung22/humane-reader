@@ -1,11 +1,12 @@
 # Humane Reader Chrome Extension
 The Humane Reader Chrome Extension is an AI-powered tool that generates natural-sounding speech from text using state-of-the-art text-to-speech technology. With this extension, you can easily grab text from any webpage and convert it into high-quality audio, making it convenient for users who prefer listening to content rather than reading it.
-Features
 
-Seamless text extraction from webpages: Simply click the "Grab Text from Page" button, and the extension will automatically extract the main article text from the current webpage.
-Wide range of AI-generated voices: Choose from a diverse selection of male and female voices across different languages and accents to personalize your listening experience.
-Real-time audio generation: Once you have selected the desired voice and confirmed the text, the extension generates the audio file on the fly using a Flask server and advanced text-to-speech models.
-Easy-to-use interface: The extension provides a user-friendly popup interface where you can select the voice, view the extracted text, and generate the audio with just a few clicks.
+## Features
+
+* Seamless text extraction from webpages: Simply click the "Grab Text from Page" button, and the extension will automatically extract the main article text from the current webpage.
+* Wide range of AI-generated voices: Choose from a diverse selection of male and female voices across different languages and accents to personalize your listening experience.
+* Real-time audio generation: Once you have selected the desired voice and confirmed the text, the extension generates the audio file on the fly using a Flask server and advanced text-to-speech models.
+* Easy-to-use interface: The extension provides a user-friendly popup interface where you can select the voice, view the extracted text, and generate the audio with just a few clicks.
 
 ### Technologies Used
 
