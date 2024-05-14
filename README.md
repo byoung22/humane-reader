@@ -3,7 +3,6 @@ The Humane Reader Chrome Extension is an AI-powered tool that generates natural-
 [b6ea5209-34bb-484a-99a8-8295a7679c53.webm](https://github.com/byoung22/humane-reader/assets/111161049/351ac6c0-a713-4bf5-a028-ffbf5e7e3fb1)
 [2a144ae3-c7fc-45b5-ba15-387f670c1a89.webm](https://github.com/byoung22/humane-reader/assets/111161049/828631a7-6c42-4935-95e1-2a1802e08945)
 
-
 ## Features
 
 * Seamless text extraction from webpages: Simply click the "Grab Text from Page" button, and the extension will automatically extract the main article text from the current webpage.
