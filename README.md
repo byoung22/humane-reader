@@ -1,5 +1,5 @@
 # Humane Reader Chrome Extension
-The Humane Reader Chrome Extension is an AI-powered tool that generates natural-sounding speech from text using state-of-the-art text-to-speech technology. With this extension, you can easily grab text from any webpage and convert it into high-quality audio, making it convenient for users who prefer listening to content rather than reading it.
+The Humane Reader Chrome Extension is an AI-powered tool that generates natural-sounding speech from text using `coqui-ai TTS`. With this extension, you can easily grab text from any webpage and convert it into high-quality audio, making it convenient for users who prefer listening to content rather than reading it.
 
 [Annmarie.webm](https://github.com/byoung22/humane-reader/assets/111161049/3252cde9-dae7-4008-bbc5-481adb159f39)
 
@@ -14,10 +14,10 @@ The Humane Reader Chrome Extension is an AI-powered tool that generates natural-
 
 ### Technologies Used
 
-* Chrome Extension API: The extension leverages the Chrome Extension API to interact with the browser, extract text from webpages, and provide a seamless user experience.
-* Flask: The backend server is built using Flask, a lightweight web framework for Python, to handle the audio generation requests from the extension.
-* TTS (Text-to-Speech) Library: The extension utilizes the TTS library, which offers a collection of pre-trained text-to-speech models capable of generating natural-sounding speech in multiple languages and voices.
-* HTML/CSS/JavaScript: The extension's user interface is built using HTML, CSS, and JavaScript, providing an intuitive and responsive experience for users.
+* `Chrome Extension API`: The extension leverages the Chrome Extension API to interact with the browser, extract text from webpages, and provide a seamless user experience.
+* `Flask`: The backend server is built using Flask, a lightweight web framework for Python, to handle the audio generation requests from the extension.
+* `TTS (Text-to-Speech) Library`: The extension utilizes the TTS library, which offers a collection of pre-trained text-to-speech models capable of generating natural-sounding speech in multiple languages and voices.
+* `HTML/CSS/JavaScript`: The extension's user interface is built using HTML, CSS, and JavaScript, providing an intuitive and responsive experience for users.
 
 # Installation
 
